@@ -135,10 +135,9 @@
     padding: 0.5rem;
   }
   .Main .content h1{
-    height: 10vh;
-    line-height: 10vh;
-    font-size: 30px;
-    margin-bottom: 0;
+    height: auto;
+    font-size: 25px;
+    margin: 1rem 0;
   }
   .Main .password-box button{
     font-size: 20px;
