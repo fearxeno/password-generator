@@ -5,3 +5,4 @@
 
 This project was made with React JS. 
 
+## Live version link: https://fearxeno.github.io/password-generator/
