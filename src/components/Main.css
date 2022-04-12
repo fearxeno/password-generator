@@ -131,7 +131,7 @@
 @media (max-width:640px){
   .Main .content{
     width: 100%;
-    margin:0;
+    margin:2rem 0;
     padding: 0.5rem;
   }
   .Main .content h1{
